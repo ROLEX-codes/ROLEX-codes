@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ROLEX-codes
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Pentest
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on data science
-- 📫 you can reach me at instagram @ the.naughtyrolex
+- 💞️ I’m looking to collaborate on pentesting
+- 📫 you can reach me at instagram @ rolex_tosh
 
 <!---
 ROLEX-codes/ROLEX-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
